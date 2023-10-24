@@ -1,0 +1,6 @@
+langchain
+tweepy
+feedparser
+newspaper3k
+openai
+python-dotenv
